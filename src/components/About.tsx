@@ -32,7 +32,7 @@ export default function About() {
           >
             <span className="section-badge">About Us</span>
             <h2 className="mt-4 font-display text-3xl sm:text-4xl font-bold text-gray-900">
-              About Our Clinic 
+              About Our Clinic spider
             </h2>
             <p className="mt-4 text-gray-500 leading-relaxed">
               Our clinic has been serving the community for over 15 years with a commitment to
